@@ -97,5 +97,4 @@ dictionary  = {
 "wollen": "to want/desire",
 "zählen": "to count/score",
 "zeigen": "demonstrate/show",
-"ziehen": "pull"
-}
+"ziehen": "pull"}
