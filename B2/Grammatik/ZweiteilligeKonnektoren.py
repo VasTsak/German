@@ -11,3 +11,19 @@ Konnektoren = {
 "Einschränkung": ["Wir sehen uns zwar nicht mehr oft, aber wir bleiben Freunde",
 "Zwar sehen wir uns nicht mehr oft, aber wir bleiben Freunde"]
 }
+
+NachsilbenBeiNomen = {
+"der": {
+"-er": ["der Komiker", "der Musiker"],
+"-ist": ["der Realist", "der Idealist"],
+"-or": ["der Direktor", "der Ventilator"]
+},
+"das":{
+"-e": {"das Erlebnis", "das Bedürfnis"}
+},
+"die": {
+"-keit": ["die Dankbarkeit", "die Einsamkeit"],
+"-ion": ["die Emotion", "die Diskussion"],
+"-schaft": ["die Bekanntschaft", "die Freundschaft"]
+}
+}
